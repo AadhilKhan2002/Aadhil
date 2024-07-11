@@ -1,0 +1,59 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+    background-color: #183b82;
+    margin-top: 200px;
+    margin-left: 450px;
+    margin-bottom: 200px;
+}
+.calculator{
+    height: 100vh;
+    width: 30vw;
+    border-radius: 10px;
+    background-color: cornflowerblue; 
+    align-items: center;
+}
+.input{
+    height: 80px;
+    width: 430px;
+    font-size:45px;
+    text-align: right;
+    color:black;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: ghostwhite;
+    padding-right: 25px;
+
+}
+.opearator{
+    height: 55px;
+    width: 75px;
+    margin: 15px;
+    cursor: pointer;
+    border: none;
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+.n{
+    height: 55px;
+    width: 75px;
+    margin: 15px;
+    cursor: pointer;
+    border: none;
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+.opearator-equal{
+    height: 55px;
+    width: 75px;
+    margin: 15px;
+    cursor: pointer;
+    border: none;
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+p{
+    font-size: 65px;
+}
